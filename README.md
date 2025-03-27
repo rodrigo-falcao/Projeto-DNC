@@ -43,6 +43,7 @@ O design do site foi desenvolvido com foco em:
 
 🔹 **Projeto criado para aprendizado e prática!** 🚀 Sinta-se à vontade para contribuir ou sugerir melhorias. 😊
 
+## 📸Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0b53b1c2-5d0f-4f21-86ea-447b71343a99" alt="Screenshot do projeto">
 </p>

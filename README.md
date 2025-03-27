@@ -3,7 +3,7 @@
 Este projeto é um site responsivo que apresenta os serviços e soluções oferecidos por uma empresa especializada em gestão de projetos, análise de negócios e desenvolvimento de produtos digitais. O design foi desenvolvido com foco em usabilidade, responsividade e uma experiência visual agradável.
 
 ## 🌍 Acesse o Projeto
-🔗 [Clique aqui para acessar](https://rodrigo-falcao.github.io/useApi/)
+🔗 [Clique aqui para acessar](https://rodrigo-falcao.github.io/Projeto-DNC/)
 
 ## 📌 Funcionalidades
 

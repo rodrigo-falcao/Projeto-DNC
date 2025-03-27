@@ -34,12 +34,6 @@ O site foi projetado para ser totalmente responsivo, adaptando-se a diferentes d
 ├── style.css # Estilos do site <br/>
 ├── assets/ # Imagens e ícones utilizados no projeto <br/>
 
-## 🚀 Como Executar o Projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-
 ## 🎨 Design
 O design do site foi desenvolvido com foco em:
 
@@ -50,5 +44,6 @@ O design do site foi desenvolvido com foco em:
 🔹 **Projeto criado para aprendizado e prática!** 🚀 Sinta-se à vontade para contribuir ou sugerir melhorias. 😊
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b4d6b9e0-8bb4-4446-95f5-01f9ad52adec" alt="Screenshot do projeto">
+  <img src="https://github.com/user-attachments/assets/0b53b1c2-5d0f-4f21-86ea-447b71343a99" alt="Screenshot do projeto">
 </p>
+

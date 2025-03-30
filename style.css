@@ -664,7 +664,8 @@
         h3 {
             font-size: 32px;
             line-height: 36px;   
-            text-align: center;         
+            text-align: center;
+            margin: auto;
         }
         p {
             padding-top: 20px;

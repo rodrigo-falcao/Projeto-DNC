@@ -196,6 +196,11 @@
     color: var(--color-font-secundary);
     margin-top: 20px;
     cursor: pointer;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+.item-button:hover {
+    transform: scale(1.05);
+    opacity: 0.8; 
 }
 .feactures-item:last-child {
     gap: 200px;
@@ -556,34 +561,33 @@
 
 /*--- MOBILE VERSION ---*/
 
-@media (max-width: 480px) {
+@media (max-width: 768px) {
     .container-margin {
-        max-width: 300px;
-        margin: auto;
-        padding-left: 5px;
-        padding-right: 5px;
-    }
-    /* CONTAINER HEADER */
-    .container-content {
         max-width: 100%;
-        margin-top: 160px;
-        margin-bottom: 160px;
+        margin: auto;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    /* CONTAINER HEADER */
+    
+    .container-content {
+        max-width: 40%;
         text-align: center;
         display: flex;
         flex-direction: column;
         align-items: center;
+        justify-content: center;
+        margin: 110px auto ;
         
         h1 {
-            max-width: 100%;
-            font-size: 28px;
-            line-height: 32px;
+            width: 300px;
+            font-size: 38px;
+            line-height: 48px;
             text-align: center;
-            display: flex;
-            align-items: center;
-            margin: auto;
         }
         h3 {
-            max-width: 100%;
+            max-width: 320px;
             font-size: 16px;
             line-height: 26px;
             padding-top: 20px;
@@ -675,9 +679,9 @@
             margin-top: 20px;
         }
     }
-    .item-img img {
-        width: 335px; 
-        height: 332px; 
+    .item-img > img {
+        width: 285px; 
+        height: 282px; 
         object-fit: cover; 
         object-position: center; 
         border-radius: 5px;
@@ -727,6 +731,23 @@
         margin: 0 auto; 
     }
 
+    /* CONTENT SECTION CONTACT */
+
+    .content-section-contact {
+        margin-left: 20px;
+        margin-right: 20px;
+        h3 {
+            font-size: 32px;
+            line-height: 32px;
+        }
+        p{
+            font-size: 16px;
+            line-height: 32px;
+            letter-spacing: 0px;
+            padding-top: 15px;
+        }
+    }
+
     /* CONTAINER FOOTER */
 
     .content-footer-nav {
@@ -734,6 +755,7 @@
         gap: 30px;
         justify-content: space-around;
         flex-direction: column;
+        padding-left: 40px;
     }
 
     .content-footer-copy {

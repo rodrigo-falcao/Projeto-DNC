@@ -30,9 +30,11 @@ O site foi projetado para ser totalmente responsivo, adaptando-se a diferentes d
 - **Mobile**: Layout em uma única coluna, com imagens e textos otimizados.
 
 ## 📂 Estrutura de Arquivos
-├── index.html # Arquivo principal do site <br/>
-├── style.css # Estilos do site <br/>
-├── assets/ # Imagens e ícones utilizados no projeto <br/>
+```
+├── index.html          # Arquivo principal do site <br/>
+├── style.css           # Estilos do site <br/>
+├── assets/             # Imagens e ícones utilizados no projeto <br/>
+```
 
 ## 🎨 Design
 O design do site foi desenvolvido com foco em:
